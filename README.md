@@ -7,7 +7,10 @@ give the file install_python_modules permitions to execute through
 ```
 chmod +x install_python_modules
 ```
-
+run the script through 
+```
+./install_python_modules
+```
 run jupyter notebook through:
 ```
 jupyter notebook
